@@ -1,6 +1,6 @@
-📝 Laporan Praktikum Struktur Kontrol IF dan Logika📌
+# 📝 Laporan Praktikum 10 Pemrograman Web📌
 
-Tujuan Praktikum
+## Tujuan Praktikum
 
 Mempelajari dan mempraktikkan penggunaan struktur kontrol kondisional if, if...else, if...elseif...else, if bersarang (nested if), serta operator logika (&& dan ||) dalam bahasa pemrograman PHP.
 
